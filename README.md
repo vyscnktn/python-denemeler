@@ -1,7 +1,7 @@
 # python-denemeler
 Bazı Python Scriptleri
 
-### Gauss Alan Hesabı - Shoelace formula
+### [Gauss Alan Hesabı - Shoelace formula](https://github.com/vyscnktn/python-denemeler/blob/main/gauss-area-calculation.py)
 
 Ayakkabı bağı formülü, ayakkabı bağı algoritması veya ayakkabı bağı yöntemi, köşeleri düzlemdeki Kartezyen koordinatlarıyla tanımlanan basit bir çokgenin alanını belirlemek için matematiksel bir algoritmadır.
 
