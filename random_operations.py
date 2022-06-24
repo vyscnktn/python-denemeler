@@ -5,7 +5,7 @@ def random(start):
     a = 211
     b = 1663
     c = 7875
-    start = (start*a*b) % c
+    start = (start*a+b) % c
     return float(start)/float(c)
 
 
